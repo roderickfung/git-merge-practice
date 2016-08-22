@@ -1,6 +1,4 @@
-Rick,
 x-11,
-Mr. Bigglesworth,
 Angela Lansbury's Head,
 Mrs. Peanut Butter,
 Shinji,
@@ -9,5 +7,6 @@ Anita,
 John Michael Liles,
 Forty-Two The Eleventh,
 Carrotina,
-Omega
-Givin' Up Yo Names
+Omega,
+Givin' Up Yo Names,
+Xccisndd of the Sunistad,
